@@ -1,0 +1,47 @@
+footer{
+	
+	background-color:gray;
+}
+footer > div{
+
+	padding: 20px;
+	color: #fff;
+}
+.navbar{
+	/*background-image:none !important;*/
+	border-color:none !important;
+	border-bottom:none !important;
+	background-color: #c6f2cc !important;
+}
+.navbar-default .navbar-nav>li>a{
+	color: #222222;
+}
+.nav>li>a{
+	padding: 10px 28px !important;
+}
+.reg-box{
+	padding: 13px;
+    /*background-color: darkgray;*/
+    margin-bottom: 3px;
+}
+.stat-box{
+	padding: 6px;
+   /* background-color: darkgray;*/
+    margin-bottom: 1px;
+}
+.hosp-detail-div{
+
+	padding:25px;
+	margin-bottom: 5px;
+}
+.hosp-detail-div > span{
+
+	font-size: 20px;
+
+}
+.padd10px{
+	padding: 10px;
+}
+.hosp-detail-form-label{
+	text-align: left !important;
+}

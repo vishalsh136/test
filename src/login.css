@@ -1,0 +1,24 @@
+ .header{
+        min-height: 30%;
+      }
+      .LoginContent{
+        padding-top: 10%;
+        min-height: 400px;
+      }
+      .highlight{
+          
+          margin-bottom: 14px;
+          background-color: #f7f7f9;
+          border: 1px solid #e1e1e8;
+          border-radius: 4px;
+          min-height: 485px;
+      }
+      #loginForm{
+        padding-top: 10%;
+      }
+      b{
+        color:#5cb85c;
+      }
+      #header{
+        margin-top:5%; 
+      }
